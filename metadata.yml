@@ -1,0 +1,12 @@
+---
+:id: 110344079
+:submitters:
+- :name: Ugtakhbayar Battulga
+  :email: battu016@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-10 01:25:50.643827000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-09 17:25:50.643827000 Z
+:status: processed
+:score: 92.5
